@@ -1,0 +1,18 @@
+#best-album {
+    background-color: rgb(49, 69, 85);
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+#musics li::marker {
+    color: rgb(1, 17, 68);
+    font-size: 20px;
+}
+
+#musics {
+    background-color: rgb(5, 142, 255);
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
